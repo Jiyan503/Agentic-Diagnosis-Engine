@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+# Build outputs
+build/
+dist/
+develop-eggs/
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local diagnostic history & environment secrets
+.env
+history/*.json
+!history/.gitkeep
+
+# IDEs & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
