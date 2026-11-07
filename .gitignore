@@ -9,7 +9,8 @@ venv/
 ENV/
 # Build outputs
 build/
-dist/
+dist/DevDiagnosis.pkg
+dist/runw.exe
 develop-eggs/
 
 # Pytest & Coverage
